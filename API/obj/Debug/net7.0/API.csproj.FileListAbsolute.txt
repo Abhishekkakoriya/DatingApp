@@ -1,0 +1,241 @@
+C:\DatingApp\API\bin\Debug\net7.0\appsettings.Development.json
+C:\DatingApp\API\bin\Debug\net7.0\appsettings.json
+C:\DatingApp\API\bin\Debug\net7.0\API.exe
+C:\DatingApp\API\bin\Debug\net7.0\API.deps.json
+C:\DatingApp\API\bin\Debug\net7.0\API.runtimeconfig.json
+C:\DatingApp\API\bin\Debug\net7.0\API.dll
+C:\DatingApp\API\bin\Debug\net7.0\API.pdb
+C:\DatingApp\API\obj\Debug\net7.0\API.csproj.AssemblyReference.cache
+C:\DatingApp\API\obj\Debug\net7.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\DatingApp\API\obj\Debug\net7.0\API.AssemblyInfoInputs.cache
+C:\DatingApp\API\obj\Debug\net7.0\API.AssemblyInfo.cs
+C:\DatingApp\API\obj\Debug\net7.0\API.csproj.CoreCompileInputs.cache
+C:\DatingApp\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\DatingApp\API\obj\Debug\net7.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\DatingApp\API\obj\Debug\net7.0\staticwebassets\msbuild.build.API.props
+C:\DatingApp\API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\DatingApp\API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\DatingApp\API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\DatingApp\API\obj\Debug\net7.0\staticwebassets.build.json
+C:\DatingApp\API\obj\Debug\net7.0\staticwebassets.development.json
+C:\DatingApp\API\obj\Debug\net7.0\scopedcss\bundle\API.styles.css
+C:\DatingApp\API\obj\Debug\net7.0\API.dll
+C:\DatingApp\API\obj\Debug\net7.0\refint\API.dll
+C:\DatingApp\API\obj\Debug\net7.0\API.pdb
+C:\DatingApp\API\obj\Debug\net7.0\API.genruntimeconfig.cache
+C:\DatingApp\API\obj\Debug\net7.0\ref\API.dll
+C:\DatingApp\API\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\DatingApp\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\DatingApp\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\DatingApp\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\DatingApp\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\DatingApp\API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\DatingApp\API\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\DatingApp\API\obj\Debug\net7.0\API.csproj.CopyComplete
+C:\DatingApp\API\bin\Debug\net7.0\Humanizer.dll
+C:\DatingApp\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\DatingApp\API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\DatingApp\API\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\DatingApp\API\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\DatingApp\API\bin\Debug\net7.0\System.CodeDom.dll
+C:\DatingApp\API\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\DatingApp\API\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\DatingApp\API\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\DatingApp\API\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\DatingApp\API\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\DatingApp\API\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\DatingApp\API\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\DatingApp\API\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\DatingApp\API\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\DatingApp\API\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\DatingApp\API\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\DatingApp\API\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\DatingApp\API\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\DatingApp\API\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\DatingApp\API\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\DatingApp\API\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\DatingApp\API\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\DatingApp\API\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\DatingApp\API\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\DatingApp\API\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\DatingApp\API\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\DatingApp\API\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\DatingApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\DatingApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\DatingApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\DatingApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\DatingApp\API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\DatingApp\API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\DatingApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\DatingApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\DatingApp\API\bin\Debug\net7.0\Data\UserSeedData.json
+C:\DatingApp\API\bin\Debug\net7.0\AutoMapper.dll
+C:\DatingApp\API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\DatingApp\API\bin\Debug\net7.0\CloudinaryDotNet.dll
+C:\DatingApp\API\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\DatingApp v0\API\bin\Debug\net7.0\appsettings.Development.json
+C:\DatingApp v0\API\bin\Debug\net7.0\appsettings.json
+C:\DatingApp v0\API\bin\Debug\net7.0\Data\UserSeedData.json
+C:\DatingApp v0\API\bin\Debug\net7.0\API.exe
+C:\DatingApp v0\API\bin\Debug\net7.0\API.deps.json
+C:\DatingApp v0\API\bin\Debug\net7.0\API.runtimeconfig.json
+C:\DatingApp v0\API\bin\Debug\net7.0\API.dll
+C:\DatingApp v0\API\bin\Debug\net7.0\API.pdb
+C:\DatingApp v0\API\bin\Debug\net7.0\AutoMapper.dll
+C:\DatingApp v0\API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\DatingApp v0\API\bin\Debug\net7.0\CloudinaryDotNet.dll
+C:\DatingApp v0\API\bin\Debug\net7.0\Humanizer.dll
+C:\DatingApp v0\API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\DatingApp v0\API\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\DatingApp v0\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\DatingApp v0\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\DatingApp v0\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\DatingApp v0\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\DatingApp v0\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\DatingApp v0\API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\DatingApp v0\API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\DatingApp v0\API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\DatingApp v0\API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\DatingApp v0\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\DatingApp v0\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\DatingApp v0\API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\DatingApp v0\API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\DatingApp v0\API\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\DatingApp v0\API\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\DatingApp v0\API\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\DatingApp v0\API\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\DatingApp v0\API\bin\Debug\net7.0\System.CodeDom.dll
+C:\DatingApp v0\API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\DatingApp v0\API\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\DatingApp v0\API\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\DatingApp v0\API\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\DatingApp v0\API\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\DatingApp v0\API\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\DatingApp v0\API\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\DatingApp v0\API\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\DatingApp v0\API\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\DatingApp v0\API\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\DatingApp v0\API\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\DatingApp v0\API\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\DatingApp v0\API\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\DatingApp v0\API\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\DatingApp v0\API\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\DatingApp v0\API\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\DatingApp v0\API\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\DatingApp v0\API\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\DatingApp v0\API\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\DatingApp v0\API\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\DatingApp v0\API\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\DatingApp v0\API\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\DatingApp v0\API\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\DatingApp v0\API\obj\Debug\net7.0\API.csproj.AssemblyReference.cache
+C:\DatingApp v0\API\obj\Debug\net7.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\DatingApp v0\API\obj\Debug\net7.0\API.AssemblyInfoInputs.cache
+C:\DatingApp v0\API\obj\Debug\net7.0\API.AssemblyInfo.cs
+C:\DatingApp v0\API\obj\Debug\net7.0\API.csproj.CoreCompileInputs.cache
+C:\DatingApp v0\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\DatingApp v0\API\obj\Debug\net7.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\DatingApp v0\API\obj\Debug\net7.0\staticwebassets\msbuild.build.API.props
+C:\DatingApp v0\API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\DatingApp v0\API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\DatingApp v0\API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\DatingApp v0\API\obj\Debug\net7.0\staticwebassets.build.json
+C:\DatingApp v0\API\obj\Debug\net7.0\staticwebassets.development.json
+C:\DatingApp v0\API\obj\Debug\net7.0\scopedcss\bundle\API.styles.css
+C:\DatingApp v0\API\obj\Debug\net7.0\API.csproj.CopyComplete
+C:\DatingApp v0\API\obj\Debug\net7.0\API.dll
+C:\DatingApp v0\API\obj\Debug\net7.0\refint\API.dll
+C:\DatingApp v0\API\obj\Debug\net7.0\API.pdb
+C:\DatingApp v0\API\obj\Debug\net7.0\API.genruntimeconfig.cache
+C:\DatingApp v0\API\obj\Debug\net7.0\ref\API.dll
+C:\DatingApp v0\API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\DatingApp v0\API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\DatingApp v0\API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\DatingApp v0\API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\DatingApp v0\API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Perfect\DatingApp v0 Section 18 Completed\API\bin\Debug\net7.0\appsettings.Development.json
+D:\Perfect\DatingApp v0 Section 18 Completed\API\bin\Debug\net7.0\appsettings.json
+D:\Perfect\DatingApp v0 Section 18 Completed\API\bin\Debug\net7.0\Data\UserSeedData.json
+D:\Perfect\DatingApp v0 Section 18 Completed\API\bin\Debug\net7.0\API.exe
+D:\Perfect\DatingApp v0 Section 18 Completed\API\bin\Debug\net7.0\API.deps.json
+D:\Perfect\DatingApp v0 Section 18 Completed\API\bin\Debug\net7.0\API.runtimeconfig.json
+D:\Perfect\DatingApp v0 Section 18 Completed\API\bin\Debug\net7.0\API.dll
+D:\Perfect\DatingApp v0 Section 18 Completed\API\bin\Debug\net7.0\API.pdb
+D:\Perfect\DatingApp v0 Section 18 Completed\API\bin\Debug\net7.0\AutoMapper.dll
+D:\Perfect\DatingApp v0 Section 18 Completed\API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Perfect\DatingApp v0 Section 18 Completed\API\bin\Debug\net7.0\CloudinaryDotNet.dll
+D:\Perfect\DatingApp v0 Section 18 Completed\API\bin\Debug\net7.0\Humanizer.dll
+D:\Perfect\DatingApp v0 Section 18 Completed\API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Perfect\DatingApp v0 Section 18 Completed\API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Perfect\DatingApp v0 Section 18 Completed\API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Perfect\DatingApp v0 Section 18 Completed\API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Perfect\DatingApp v0 Section 18 Completed\API\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+D:\Perfect\DatingApp v0 Section 18 Completed\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Perfect\DatingApp v0 Section 18 Completed\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Perfect\DatingApp v0 Section 18 Completed\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Perfect\DatingApp v0 Section 18 Completed\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Perfect\DatingApp v0 Section 18 Completed\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Perfect\DatingApp v0 Section 18 Completed\API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Perfect\DatingApp v0 Section 18 Completed\API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\Perfect\DatingApp v0 Section 18 Completed\API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Perfect\DatingApp v0 Section 18 Completed\API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Perfect\DatingApp v0 Section 18 Completed\API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Perfect\DatingApp v0 Section 18 Completed\API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Perfect\DatingApp v0 Section 18 Completed\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Perfect\DatingApp v0 Section 18 Completed\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Perfect\DatingApp v0 Section 18 Completed\API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Perfect\DatingApp v0 Section 18 Completed\API\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Perfect\DatingApp v0 Section 18 Completed\API\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Perfect\DatingApp v0 Section 18 Completed\API\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+D:\Perfect\DatingApp v0 Section 18 Completed\API\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+D:\Perfect\DatingApp v0 Section 18 Completed\API\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Perfect\DatingApp v0 Section 18 Completed\API\bin\Debug\net7.0\System.CodeDom.dll
+D:\Perfect\DatingApp v0 Section 18 Completed\API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Perfect\DatingApp v0 Section 18 Completed\API\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+D:\Perfect\DatingApp v0 Section 18 Completed\API\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+D:\Perfect\DatingApp v0 Section 18 Completed\API\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Perfect\DatingApp v0 Section 18 Completed\API\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+D:\Perfect\DatingApp v0 Section 18 Completed\API\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Perfect\DatingApp v0 Section 18 Completed\API\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Perfect\DatingApp v0 Section 18 Completed\API\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Perfect\DatingApp v0 Section 18 Completed\API\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Perfect\DatingApp v0 Section 18 Completed\API\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\Perfect\DatingApp v0 Section 18 Completed\API\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\Perfect\DatingApp v0 Section 18 Completed\API\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Perfect\DatingApp v0 Section 18 Completed\API\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Perfect\DatingApp v0 Section 18 Completed\API\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Perfect\DatingApp v0 Section 18 Completed\API\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Perfect\DatingApp v0 Section 18 Completed\API\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\Perfect\DatingApp v0 Section 18 Completed\API\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\Perfect\DatingApp v0 Section 18 Completed\API\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Perfect\DatingApp v0 Section 18 Completed\API\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Perfect\DatingApp v0 Section 18 Completed\API\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Perfect\DatingApp v0 Section 18 Completed\API\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Perfect\DatingApp v0 Section 18 Completed\API\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Perfect\DatingApp v0 Section 18 Completed\API\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Perfect\DatingApp v0 Section 18 Completed\API\obj\Debug\net7.0\API.csproj.AssemblyReference.cache
+D:\Perfect\DatingApp v0 Section 18 Completed\API\obj\Debug\net7.0\API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Perfect\DatingApp v0 Section 18 Completed\API\obj\Debug\net7.0\API.AssemblyInfoInputs.cache
+D:\Perfect\DatingApp v0 Section 18 Completed\API\obj\Debug\net7.0\API.AssemblyInfo.cs
+D:\Perfect\DatingApp v0 Section 18 Completed\API\obj\Debug\net7.0\API.csproj.CoreCompileInputs.cache
+D:\Perfect\DatingApp v0 Section 18 Completed\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cache
+D:\Perfect\DatingApp v0 Section 18 Completed\API\obj\Debug\net7.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Perfect\DatingApp v0 Section 18 Completed\API\obj\Debug\net7.0\staticwebassets\msbuild.build.API.props
+D:\Perfect\DatingApp v0 Section 18 Completed\API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+D:\Perfect\DatingApp v0 Section 18 Completed\API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API.props
+D:\Perfect\DatingApp v0 Section 18 Completed\API\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Perfect\DatingApp v0 Section 18 Completed\API\obj\Debug\net7.0\staticwebassets.build.json
+D:\Perfect\DatingApp v0 Section 18 Completed\API\obj\Debug\net7.0\staticwebassets.development.json
+D:\Perfect\DatingApp v0 Section 18 Completed\API\obj\Debug\net7.0\scopedcss\bundle\API.styles.css
+D:\Perfect\DatingApp v0 Section 18 Completed\API\obj\Debug\net7.0\API.csproj.CopyComplete
+D:\Perfect\DatingApp v0 Section 18 Completed\API\obj\Debug\net7.0\API.dll
+D:\Perfect\DatingApp v0 Section 18 Completed\API\obj\Debug\net7.0\refint\API.dll
+D:\Perfect\DatingApp v0 Section 18 Completed\API\obj\Debug\net7.0\API.pdb
+D:\Perfect\DatingApp v0 Section 18 Completed\API\obj\Debug\net7.0\API.genruntimeconfig.cache
+D:\Perfect\DatingApp v0 Section 18 Completed\API\obj\Debug\net7.0\ref\API.dll
+C:\DatingApp\API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\DatingApp\API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\DatingApp\API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\DatingApp\API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\DatingApp\API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\DatingApp\API\bin\Debug\net7.0\API.staticwebassets.runtime.json
